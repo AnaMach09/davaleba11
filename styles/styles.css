@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+header nav{
+    width: 100%;
+    height: 60px;
+    background-color: #9b9b9b;
+
+}
+header ul{
+    background-color: #9b9b9b;
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+header li{
+    margin-top: 22px;
+}
+header a{
+    color: #000000;
+    
+}
